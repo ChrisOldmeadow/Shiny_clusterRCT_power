@@ -1,0 +1,13 @@
+name: clusterRCTSimPower
+title: clusterRCTSimPower
+username:
+account: creditss
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3594573
+bundleId: 4189971
+url: https://creditss.shinyapps.io/clusterRCTSimPower/
+when: 1612649017.46436
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: testing.R|Untitled.R
